@@ -51,3 +51,17 @@ p{
     text-decoration-color: white;
   }
 
+  .star{
+    background-color: yellow;
+    position: abosolute;
+    top: 20px;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 80px solid blue;
+    
+  
+    }
+
+  }
